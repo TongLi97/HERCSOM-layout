@@ -59,7 +59,7 @@ If HERC-SOM was used in your research, please cite the following reference:
 ```bibtex
 @misc{herc-som,
   author       = {Tong Li, Guodao Sun, Xueqian Zheng, Haixia Wang and Ronghua Liang},
-  title        = {HERC-SOM: homology-enhanced self-organizing map},
+  title        = {CompoVis: Is Cross-modal Semantic Alignment of CLIP Optimal? A Visual Analysis Attempt},
   year         = {2025},
   publisher    = {GitHub},
   journal     = {GitHub repository},
