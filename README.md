@@ -11,16 +11,20 @@ HERC-SOM is a layout optimization algorithm based on Self-Organizing Maps (SOM)[
 - **Input**: HERC-SOM accepts large-scale high-dimensional vectors as input.
 - **Output**: HERC-SOM outputs a 2D topological layout.
 
-![HERC-SOM](./hercsom.png)
-*Figure 1: HERC-SOM schematic*
+
+<center>
+  <img src="./hercsom.png" alt="HERC-SOM" width="700">
+  <p>Figure 1: HERC-SOM schematic</p>
+</center>
 
 # HERC-SOM vs. SOM and RC-SOM
 <!-- HERC-SOM 优化了匹配簇的分布，有效缓解了 SOM 中出现的视觉遮挡和像素利用率低的限制，以及 RC-SOM 无法清晰划分簇的问题。-->
 HERC-SOM optimizes the clusters distribution, effectively alleviating the limitations of visual occlusion and inefficient pixel utilization in SOM, as well as the inability of RC-SOM to clearly delineate clusters.
 
-
-![Algorithm Comparison](./hercsom_compare.png)
-*Figure 1: Algorithm Comparison*
+<center>
+  <img src="./hercsom_compare.png" alt="Algorithm_Comparison" width="700">
+  <p>Figure 2: Algorithm Comparison</p>
+</center>
 
 
 # Getting Started with HERC-SOM
